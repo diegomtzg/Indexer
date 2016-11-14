@@ -1,8 +1,8 @@
 # indexer
-Spotlight-esque indexer program
+###Spotlight-esque indexer program
 
-# // To compile:
-# //      gcc -o index indexer.c index.c
+####// To compile:
+######//      gcc -o index indexer.c index.c
 
-# // To run:
-# //      ./index <word> <filename>[, <filename>[, ...]]
+###// To run:
+######//      ./index <word> <filename>[, <filename>[, ...]]
