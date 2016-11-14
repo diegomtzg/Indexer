@@ -5,4 +5,4 @@
 ######//      gcc -o index indexer.c index.c
 
 ####// To run:
-######//      ./index <word> <filename>[, <filename>[, ...]]
+######//      ./index [word] [filename][, [filename][, ...]]
