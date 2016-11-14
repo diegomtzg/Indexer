@@ -1,6 +1,3 @@
-#define HW11_BONUS_1
-#define HW11_BONUS_2
-
 #include <stdlib.h>
 #include <string.h>
 #include <assert.h>
